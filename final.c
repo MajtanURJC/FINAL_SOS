@@ -314,3 +314,17 @@ main()
 	printf("\n");
 	return 0;
 }
+
+
+
+//Codigo de ejemplo que he quitado de la shell:
+
+//char *fin;
+//long resultado = strtol(cadena, &fin, 10);
+//if (cadena == fin) {
+//        // No se realizó conversión
+//        return 0; // o manejar error
+//    }
+
+
+
